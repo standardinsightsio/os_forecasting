@@ -3,7 +3,7 @@ Sales and Inventory forecasting based on the history of sales
 
 # Contributors 
 
-- [Standard Insights][standardinsights]
+- Standard Insights - https://standardinsights.io
 - Hitesh https://github.com/khiteshk
 - Victor https://github.com/victorthemtt
 - Avani https://github.com/Avani1297
